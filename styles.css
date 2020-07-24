@@ -1,0 +1,109 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'merri-weather',serif;
+  font-size: 1.5em;
+}
+h1{
+  font-weight: normal;
+  font-size: 90px;
+  margin: 50px 0 auto auto;
+  padding: 20px;
+  font-family: 'Grenze Gotisch';
+font-family: 'sacramento',cursive;
+}
+h2{
+  font-size:2.5rem;
+}
+.skills{
+  width: 50% ;
+    margin: 100px auto 100px auto;
+}
+.skillsofme{
+  width:25%;
+  float: left;
+  margin-right: 20px;
+}
+.chillies{
+  width: 30%;
+  float: right;
+  margin-left: 20px;
+}
+.top-container{
+  background-color: #b4f2e1;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+a{
+  color: red;
+  margin: 10px 20px;
+  text-decoration: underline;
+}
+a:hover{
+  color: white;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+hr {
+  border-style:none;
+  border-top: dotted;
+  border-color: grey;
+  border-width:5px;
+  width: 4%;
+  margin: 100px auto;
+}
+.copy-right{
+  color: brown;
+  font-size: 75%;
+  padding: 20px 0;
+}
+.contact{
+  width: 40%;
+  margin: 100px auto;
+}
+.mani{
+  width: 30%;
+  margin: auto;
+}
+
+p{
+  line-height: 2;
+}
+.myButton {
+	background-color:#44c767;
+	-webkit-border-radius:28px;
+	-moz-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
